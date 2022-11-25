@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(179, 177, 175);
+}
+canvas{
+    background-color: cornflowerblue;
+}

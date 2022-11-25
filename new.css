@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(247 185 82);
+   
+
+}
+canvas{
+    background-color: rgb(62 83 171);
+     border-radius: 30px;
+     /* background-image: url(qq.jpg); */
+}
+#bee{
+    display: none;
+}
